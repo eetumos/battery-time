@@ -1,0 +1,8 @@
+{
+  "name": "Battery Time",
+  "description": "Show the time remaining until the battery is (dis)charged",
+  "uuid": "battery-time@eetumos.github.com",
+  "shell-version": [
+    "47"
+  ]
+}
